@@ -13,4 +13,4 @@ $ git clone https://github.com/zeronetworks0/teri
 
 $ cd teri
 
-$ php 3tri.php
+$ php 3trienc.php
