@@ -1,4 +1,4 @@
-install termux via fdroid
+install termux via fdroid : https://f-droid.org/F-Droid.apk
 
 $ pkg update && pkg upgrade
 
