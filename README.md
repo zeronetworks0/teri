@@ -15,7 +15,7 @@ $ cd teri
 
 $ php 3trienc.php
 
-**for openwrt using php7**
+# for openwrt using php7
 opkg update
 
 opkg install git
@@ -36,7 +36,7 @@ cd /root/teri
 
 php-cli 3trienc.php
 
-**for openwrt using php8**
+# for openwrt using php8
 opkg update
 
 opkg install git
