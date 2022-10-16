@@ -1,5 +1,5 @@
 # for termux
-install termux via fdroid : https://f-droid.org/F-Droid.apk
+install termux via fdroid [Termux](https://f-droid.org/repo/com.termux_118.apk)
 
 $ pkg update && pkg upgrade
 
