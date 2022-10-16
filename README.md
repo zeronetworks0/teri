@@ -1,6 +1,5 @@
-# sceeenshoot
-(https://i.ibb.co/20J45SM/photo-2022-10-16-18-26-43.jpg)
-(https://i.ibb.co/HzpBPrp/Screenshot-1.png)
+# screenshoot
+[![ZERO NETWORKS](https://i.ibb.co/20J45SM/photo-2022-10-16-18-26-43.jpg)](https://github.com/zeronetworks0/teri/)
 # for termux
 install termux via fdroid [Termux](https://f-droid.org/repo/com.termux_118.apk)
 
